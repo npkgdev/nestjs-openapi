@@ -20,7 +20,7 @@
     "release": "npx semantic-release"
   },
   "dependencies": {
-    "@nestjs/swagger": "^5.0.0",
+    "@nestjs/swagger": "6.0.4",
     "express-handlebars": "^6.0.5",
     "httpsnippet": "^2.0.0",
     "openapi-sampler": "^1.1.0",
