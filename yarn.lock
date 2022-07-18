@@ -883,7 +883,7 @@
   resolved "https://registry.yarnpkg.com/@nestjs/mapped-types/-/mapped-types-1.0.1.tgz#78b62041c7a407db4a90eb140567321602bed18e"
   integrity sha512-NFvofzSinp00j5rzUd4tf+xi9od6383iY0JP7o0Bnu1fuItAUkWBgc4EKuIQ3D+c2QI3i9pG1kDWAeY27EMGtg==
 
-"@nestjs/swagger@^5.0.0":
+"@nestjs/swagger@5.2.1":
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-5.2.1.tgz#0fbd5dbc84aeebc2912009cce1309d4bebe9a52c"
   integrity sha512-7dNa08WCnTsW/oAk3Ujde+z64JMfNm19DhpXasFR8oJp/9pggYAbYU927HpA+GJsSFJX6adjIRZsCKUqaGWznw==
@@ -1615,7 +1615,7 @@
   dependencies:
     "@types/superagent" "*"
 
-"@types/uuid@^8.3.4":
+"@types/uuid@8.3.4":
   version "8.3.4"
   resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-8.3.4.tgz#bd86a43617df0594787d38b735f55c805becf1bc"
   integrity sha512-c/I8ZRb51j+pYGAu5CrFMRxqZ2ke4y2grEBO5AUjgSkSk+qT2Ea+OdWElz/OiMf5MNpn2b17kuVBwZLQJXzihw==
@@ -3038,7 +3038,7 @@ expect@^28.1.3:
     jest-message-util "^28.1.3"
     jest-util "^28.1.3"
 
-express-handlebars@^6.0.5:
+express-handlebars@6.0.5:
   version "6.0.5"
   resolved "https://registry.yarnpkg.com/express-handlebars/-/express-handlebars-6.0.5.tgz#7af07e91a5f576aecec4bde1a477fe01c189c47e"
   integrity sha512-XEujWSZpsdptky62Qt0Yj8jVGVT6yVXS6fOteL/b8wLdB122ykrxVlcQbNWVxFSEgusju3f6/0uqDC7R9qfwDw==
@@ -3578,7 +3578,7 @@ https-proxy-agent@^5.0.0:
     agent-base "6"
     debug "4"
 
-httpsnippet@^2.0.0:
+httpsnippet@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/httpsnippet/-/httpsnippet-2.0.0.tgz#695bc2e662535b37a993d25f40b3496b5ae82350"
   integrity sha512-Hb2ttfB5OhasYxwChZ8QKpYX3v4plNvwMaMulUIC7M3RHRDf1Op6EMp47LfaU2sgQgfvo5spWK4xRAirMEisrg==
@@ -5424,7 +5424,7 @@ onetime@^6.0.0:
   dependencies:
     mimic-fn "^4.0.0"
 
-openapi-sampler@^1.1.0:
+openapi-sampler@1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/openapi-sampler/-/openapi-sampler-1.2.1.tgz#2ca9eea527f8f2ddb32c3ae1dda31afd8bf0833f"
   integrity sha512-mHrYmyvcLD0qrfqPkPRBAL2z16hGT2rW0d0B7nklfoTcc3pmkJLkSZlKSeFgerUM41E5c7jlxf0Y19xrM7mWQQ==
@@ -5929,7 +5929,7 @@ redeyed@~2.1.0:
   dependencies:
     esprima "~4.0.0"
 
-redoc-try-it-out@^1.0.9:
+redoc-try-it-out@1.0.9:
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/redoc-try-it-out/-/redoc-try-it-out-1.0.9.tgz#ff4edde7bcfd8c8b7b3626fb90c601a29e10ee3b"
   integrity sha512-hrWoZ3EuEw886edqX3fDrVuiU7P9WnCdA126yDoUICMkAB4oVNxt3sftFkYv8nBFMF/PRHF5Z4ZsMwJzpWYM+w==
